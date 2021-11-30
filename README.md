@@ -1,4 +1,5 @@
-# a collection of bash scripts from the data librarian courses
+# a collection of bash scripts from the data librarian course
+2021-11-30
 
 ## overview
 
